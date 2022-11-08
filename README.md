@@ -1,4 +1,4 @@
-# Hola, esta es mi 👋
+# Hola, esta es mi Perfil de HitHub 👋
 
 <!--
 **FrayRyderX/FrayRyderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Acerca de mí:
 
+Me llamo **Freymer Jesús Sepúlveda Pimentel**
+
+---
+
+#### Acerca de mí:
+
+- [Hobbies](#hobbie)
+- [Hablidades](#habilidades)
+- [Gustos Músicales](#musica)
+- [Metas](#metas)
+
+---

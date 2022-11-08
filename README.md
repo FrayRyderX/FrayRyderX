@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hola, esta es mi 👋
 
 <!--
 **FrayRyderX/FrayRyderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-	# H1 HELOOOOOSLSL
+

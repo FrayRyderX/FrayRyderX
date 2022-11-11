@@ -15,13 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Acerca de mí:
+### Acerca de mí: 🔭
 
 Me llamo **Freymer Jesús Sepúlveda Pimentel**
+Tengo **22** años
+Vivo en Antioquia; Medellín; Colombia 🇨🇴
 
 ---
 
-#### Acerca de mí:
+### Información Personal:
+
+Soy una persona responsable y honesta la cual siempre cumple con sus responsabilidades y deberes, además tenfo una buena relación interpersonal con las demás personas, siempre esucho opidiones de los demás para ser una mejor persona.
+
+---
+
+#### Aspectos personales o Información Adicional: 🤔
 
 - [Hobbies](#hobbie)
 - [Hablidades](#habilidades)
@@ -29,3 +37,4 @@ Me llamo **Freymer Jesús Sepúlveda Pimentel**
 - [Metas](#metas)
 
 ---
+📫

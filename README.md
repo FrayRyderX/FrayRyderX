@@ -41,25 +41,35 @@ Soy una persona responsable y honesta la cual siempre cumple con sus responsabil
 
 ##### Hobbies: 
 
+- **Leer un libro**
+- **Escuchar música**
+- **Jugar VideoJuegos**
+- **Hacer un poco de e o actividad física jercicios**
 
 
 ---
 
 ##### Habilidades: 
 
-
+- **Responsabilidad**
+- **Responsable**
+- **Honesto**
+- **Trabajo en Equipo**
 
 ---
 
 ##### Gustos Musicales: 
 
-
+- **Electrónica**
+- **Rock**
 
 ---
 
 ##### Metas O Logros: 
 
-
+- **Crear mi propia enmpresa**
+- **Tener un trabajo donde pueda especiamlizarme en el área mas comodada**
+- **Graduarme**
 
 ---
 

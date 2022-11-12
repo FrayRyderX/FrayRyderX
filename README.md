@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 ### Acerca de mí: 🔭
 
 Me llamo **Freymer Jesús Sepúlveda Pimentel**
+Nací en Caracas; Venezuela 
 Tengo **22** años
-Vivo en Antioquia; Medellín; Colombia 🇨🇴
+Vivo en Antioquia; Medellín; Colombia
 
 ---
 
@@ -34,7 +35,35 @@ Soy una persona responsable y honesta la cual siempre cumple con sus responsabil
 - [Hobbies](#hobbie)
 - [Hablidades](#habilidades)
 - [Gustos Músicales](#musica)
-- [Metas](#metas)
+- [Metas o Logros](#metas)
 
 ---
-📫
+
+##### Hobbies: 
+
+
+
+---
+
+##### Habilidades: 
+
+
+
+---
+
+##### Gustos Musicales: 
+
+
+
+---
+
+##### Metas O Logros: 
+
+
+
+---
+
+## Contacto: 📫
+
+- **Email:** frayryderx@gmail.com
+- **Cell:** +57 3045833092

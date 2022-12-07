@@ -1,4 +1,4 @@
-# Hola, esta es mi Perfil de HitHub 👋
+# Hola, este es mi Perfil de GitHub 👋
 
 <!--
 **FrayRyderX/FrayRyderX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

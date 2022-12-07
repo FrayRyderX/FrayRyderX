@@ -26,7 +26,7 @@ Vivo en Antioquia; Medellín; Colombia
 
 ### Información Personal:
 
-Soy una persona responsable y honesta la cual siempre cumple con sus responsabilidades y deberes, además tenfo una buena relación interpersonal con las demás personas, siempre esucho opidiones de los demás para ser una mejor persona.
+Soy una persona responsable y honesta la cual siempre cumple con sus responsabilidades y deberes, además tengo una buena relación interpersonal con las demás personas, siempre esucho opidiones de los demás para ser una mejor persona, soy introvertido así que es unpoco difícl tener una buena conversación conmigo, sin embargo cuando ya tengo confianza hablo bastante.
 
 ---
 
@@ -44,7 +44,7 @@ Soy una persona responsable y honesta la cual siempre cumple con sus responsabil
 - **Leer un libro**
 - **Escuchar música**
 - **Jugar VideoJuegos**
-- **Hacer un poco de e o actividad física jercicios**
+- **Hacer un poco de ejercicios o actividad física**
 
 
 ---
@@ -52,7 +52,7 @@ Soy una persona responsable y honesta la cual siempre cumple con sus responsabil
 ##### Habilidades: 
 
 - **Responsabilidad**
-- **Responsable**
+-**Seguridad**
 - **Honesto**
 - **Trabajo en Equipo**
 
@@ -68,7 +68,7 @@ Soy una persona responsable y honesta la cual siempre cumple con sus responsabil
 ##### Metas O Logros: 
 
 - **Crear mi propia enmpresa**
-- **Tener un trabajo donde pueda especiamlizarme en el área mas comodada**
+- **Conseguir un trabajo donde pueda especializarme en el área mas comoda, en base a lo que estudie**
 - **Graduarme**
 
 ---
